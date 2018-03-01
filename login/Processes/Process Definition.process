@@ -185,7 +185,7 @@
         <pd:inputBindings>
             <ResponseActivityInput>
                 <asciiContent>
-                    <xsl:value-of select="'nie ok'"/>
+                    <xsl:value-of select="'coś nie tak'"/>
                 </asciiContent>
             </ResponseActivityInput>
         </pd:inputBindings>
